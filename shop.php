@@ -5,7 +5,7 @@
 </head>
 <body>
 
-<h1 class="heading">This is my shop page</h1>
+<h1 class="heading">This is my shop page updated</h1>
 
 </body>
 </html>
