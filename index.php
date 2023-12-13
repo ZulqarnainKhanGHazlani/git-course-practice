@@ -5,7 +5,7 @@
 </head>
 <body>
 
-<h1 class="heading">This is my first push</h1>
+<h1 class="heading">This is my first commit</h1>
 
 </body>
 </html>
