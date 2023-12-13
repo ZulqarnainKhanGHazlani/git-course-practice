@@ -5,7 +5,7 @@
 </head>
 <body>
 
-<h1 class="heading">This is my home page</h1>
+<h1 class="heading">This is my about page</h1>
 
 </body>
 </html>
